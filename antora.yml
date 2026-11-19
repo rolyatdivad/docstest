@@ -1,5 +1,5 @@
 name: project-name
 version: ~
-title: Docs Test Project
+title: New Docs Test Project Title
 nav:
   - modules/ROOT/nav.adoc
